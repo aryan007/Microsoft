@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/okhttp-3.0.1-95ceb253fade3ea4e3415895c57c9b2226cad515.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-ce17c050b0c25b5c68467305dbf71075f67d7414.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/converter-gson-2.0.0-beta2-0ec37dd61cb94b7bcc369a973c9ba8b209c217c2.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta2-480fd9f08009c39ecd2ecdd4b8f4c89461dccd3e.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/okio-1.6.0-41ca321662f99877027f1c0d0bf3ff358c3b8b9d.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/retrofit-2.0.0-beta4-d6955cbc185a8f80252cc388fea88711527a86d4.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/gson-2.3.1-d3779cf63e217ad8aefb7d7c66500be931ac6d3d.jar" />
+    </item>
+    <item
+        jar="/Users/thukralp/amazonnow/env/BrazilGradle-2.2/runtime/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/thukralp/Downloads/FlikrImageApplication/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0-43973428e1427ade445ff83268e18bfc83118d1f.jar" />
+    </item>
+
+</items>

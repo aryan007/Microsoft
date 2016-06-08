@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WikiImageApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="transition_flikr_image">Wiki Transition</string>
+    <string name="flikr_image_clicked_bundle">Wiki Bundle</string>
+    <string name="edit_text_hint">Enter Search Text</string>
+    <string name="search_text">Search Wiki</string>
+</resources>
